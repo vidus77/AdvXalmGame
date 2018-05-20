@@ -111,4 +111,6 @@ Szeretnénk készíteni egy reakcióidő mérő játékot. A játék egymás ut�
 +---------------------------------------------------------------------------------------------------+
 ```
 
-
+ - A képernyőn lesz két fő sor, az alsóban a kezelő gombok, a fölső sorban minden más
+  - a felső rész baloldalán lesz egy tartalomfüggő szélességű (nem nyújyható ) és egy változtatható szálességű oszlop minden a fejlécnek és a grafikus elemeknek
+  - 
