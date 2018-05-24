@@ -1,1 +1,2 @@
 # ViZoXalmGame
+# teszt online redact
