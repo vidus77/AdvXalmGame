@@ -5,7 +5,7 @@
 Vida Zoltán ( [Plesz Gábor, NetAcademia, 2018 tananyaga](https://github.com/Xaml201805) alapján)
 
 
-## A programozáshoz felhasznált környeze
+## A programozáshoz felhasznált környezet
 ### Visual Studio 2015
  - Community csomag
  - GitHub környezet
